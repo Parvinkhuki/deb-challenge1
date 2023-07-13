@@ -52,7 +52,7 @@ margin-top: 40px;
 @media screen and (max-width:576px){
     .container{
         flex-direction: column;
-        padding:20px;
+        padding-left:24px;
     }
     .img{
     height: 300px;
